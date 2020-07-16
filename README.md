@@ -16,8 +16,8 @@ Files and directories:
 * **Datasets_reports**: this folder contains the automated analysis of the datasets done with the [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) tool.
 * **Notebooks**: the gross of the project. Here are included the Jupyter notebooks used to analyze the data, preprocess, transform etc. Some models were trained both for the customer segmentation report and for the Kaggle submission task. While the [results of the submission to the challenge](https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard
 ) were not astonishing, it was a very good first iteration to know the data and the challenge at hand.
-* **Project_report**: this is a report that address the major project development stages.
-* **rubrid.md**: this file contains the criteria used by Udacity to validate this project.
+* **Project_report**: it contains a report that address the major project development stages.
+* **Rubrid.md**: this file contains the criteria used by Udacity to validate this project.
 
 
 ---
